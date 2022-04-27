@@ -1,4 +1,12 @@
-img {
-    img src= "C:\Users\HP\Desktop\DCIT101 WEB\photos\IMG-20211015-WA0052.jpg">
-    
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: crimson;
+    background-image: url("./WhatsApp\ Image\ 2022-04-26\ at\ 1.31.42\ PM.jpeg");
+    background-size: 150%;
+    background-position: -400px 0px;
+    background-repeat: no-repeat;
+    height: 100vh;
 }
